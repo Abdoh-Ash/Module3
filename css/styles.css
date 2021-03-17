@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+}
+
+#navigation {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+#jumbo {
+	border-radius: 0px;
+}
+
+h2 {
+	margin-bottom: 20px;
+}
+
+section {
+	padding: 5%;
+}
+
+p {
+	text-align: left;
+}
+
+footer {
+	padding: 3rem;
+	margin-top: 3rem;
+}
